@@ -39,5 +39,5 @@
 ## GitHub Activity
 
 <div align="center">
-  <img width="100%" src="./profile-3d-contrib/profile-night-purple.svg" alt="sh0723의 보라색 3D GitHub 기여 그래프" />
+  <img width="100%" src="./profile-3d-contrib/profile-night-purple.svg?v=2" alt="sh0723의 보라색 3D GitHub 기여 그래프" />
 </div>
