@@ -6,7 +6,7 @@
 
 팀이 이해하고 이어갈 수 있는 서버 구조를 고민하는 백엔드 개발자입니다.
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-sh0723.github.io-6C46E5?style=flat-square&logo=github&logoColor=white)](https://sh0723.github.io)
+[![Notion Portfolio](https://img.shields.io/badge/Notion-Portfolio-000000?style=flat-square&logo=notion&logoColor=white)](https://app.notion.com/p/34defc7388e380c19a24e24d59e9af0a)
 
 </div>
 
@@ -15,6 +15,18 @@
 - Java와 Spring Boot를 중심으로 백엔드 서비스를 개발하고 있습니다.
 - 명확한 책임 분리와 함께 유지보수할 수 있는 코드를 중요하게 생각합니다.
 - 알고리즘 문제를 꾸준히 풀고 더 나은 해결 방법을 기록합니다.
+
+## Awards
+
+| Date | Award |
+| --- | --- |
+| **2024.08.16** | **교내 소프트웨어 공모전 은상** |
+
+## Experience
+
+| Period | Organization & Role |
+| --- | --- |
+| **2025.01 — 2025.02** | **두산 스코다 파워**<br>인턴 · IT부서 |
 
 ## Tech
 
