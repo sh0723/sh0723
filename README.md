@@ -1,47 +1,43 @@
-<p align="center">
-  <a href="https://sh0723.github.io">
-    <img src="https://sh0723.github.io/og.png" width="100%" alt="꾸준히 만들고, 끝까지 개선합니다 — SH0723" />
-  </a>
-</p>
+<div align="center">
 
-<h3 align="center">Backend-oriented Developer</h3>
+# sh0723
 
-<p align="center">
-  팀의 아이디어를 코드로 연결하고,<br/>
-  알고리즘을 통해 문제 해결의 기본기를 쌓아가고 있습니다.
-</p>
+### Backend Developer
 
-<p align="center">
-  <a href="https://sh0723.github.io"><strong>Portfolio</strong></a>
-  &nbsp;·&nbsp;
-  <a href="https://github.com/sh0723?tab=repositories"><strong>Repositories</strong></a>
-</p>
+팀이 이해하고 이어갈 수 있는 서버 구조를 고민하는 백엔드 개발자입니다.
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-sh0723.github.io-6C46E5?style=flat-square&logo=github&logoColor=white)](https://sh0723.github.io)
+
+</div>
 
 ## About
 
-- Java 백엔드 프로젝트와 알고리즘 학습을 중심으로 성장하고 있습니다.
-- 팀이 이해하고 이어갈 수 있는 코드와 기록을 중요하게 생각합니다.
-- 작게 나누고 명확하게 해결하며, 피드백을 다음 개선으로 연결합니다.
+- Java와 Spring Boot를 중심으로 백엔드 서비스를 개발하고 있습니다.
+- 명확한 책임 분리와 함께 유지보수할 수 있는 코드를 중요하게 생각합니다.
+- 알고리즘 문제를 꾸준히 풀고 더 나은 해결 방법을 기록합니다.
 
 ## Tech
 
-`Java` · `C++` · `TypeScript` · `Python` · `Backend` · `Algorithm`
+<p>
+  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" alt="Spring Boot" />
+  <img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=flat-square&logo=springsecurity&logoColor=white" alt="Spring Security" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/Redis-FF4438?style=flat-square&logo=redis&logoColor=white" alt="Redis" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white" alt="AWS" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" alt="C++" />
+</p>
 
 ## Selected Work
 
-| Project | What it is | Stack |
-| --- | --- | --- |
-| [AlgoHub Server](https://github.com/GAMZA-BAT/algohub-server) | 알고리즘 스터디 그룹 플랫폼 백엔드 | Java |
-| [Team-po Server](https://github.com/Team-po/Server) | 팀 프로젝트 백엔드 서버 | Java |
-| [Algorithm-SH](https://github.com/sh0723/Algorithm-SH) | 알고리즘 문제 풀이와 기록 | C++ |
+| Project | Description |
+| --- | --- |
+| [Team PO](https://github.com/Team-po/Server) | 팀 구성과 협업 경험을 연결하는 서비스의 백엔드 |
+| [AlgoHub](https://github.com/GAMZA-BAT/algohub-server) | 알고리즘 스터디 그룹을 위한 플랫폼의 백엔드 |
+| [Algorithm-SH](https://github.com/sh0723/Algorithm-SH) | 알고리즘 문제 풀이와 해법을 꾸준히 기록하는 저장소 |
 
-## More Contributions
+## GitHub Activity
 
-- [AlgoHub Client](https://github.com/GAMZA-BAT/algohub-client)
-- [SSU-BSG](https://github.com/SSU-BSG/BSG)
-- [LapPrice Server](https://github.com/LapPrice/server)
-- [LapPrice Crawler](https://github.com/LapPrice/crawler)
-
-<p align="center">
-  <sub>더 자세한 프로젝트와 커스텀 기여 그래프는 <a href="https://sh0723.github.io">포트폴리오</a>에서 확인할 수 있습니다.</sub>
-</p>
+<div align="center">
+  <img width="100%" src="./profile-3d-contrib/profile-night-purple.svg" alt="sh0723의 보라색 3D GitHub 기여 그래프" />
+</div>
