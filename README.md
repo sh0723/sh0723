@@ -1,15 +1,5 @@
-<div align="center">
-
-# sh0723
-
-### Backend Developer
-
-팀이 이해하고 이어갈 수 있는 서버 구조를 고민하는 백엔드 개발자입니다.
 
 [![Notion Portfolio](https://img.shields.io/badge/Notion-Portfolio-000000?style=flat-square&logo=notion&logoColor=white)](https://app.notion.com/p/34defc7388e380c19a24e24d59e9af0a)
-
-</div>
-
 ## About
 
 - Java와 Spring Boot를 중심으로 백엔드 서비스를 개발하고 있습니다.
