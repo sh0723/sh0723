@@ -2,8 +2,13 @@ name: Update GitHub activity
 
 on:
   schedule:
-    - cron: "17 */6 * * *"
+    - cron: "17 * * * *"
   workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - scripts/**
+      - .github/workflows/update-activity.yml
 
 permissions:
   contents: write
@@ -23,6 +28,9 @@ jobs:
         uses: actions/setup-node@v4
         with:
           node-version: 20
+
+      - name: Validate calendar parser
+        run: node --test scripts/contribution-calendar.test.mjs
 
       - name: Generate activity SVG
         env:
