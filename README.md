@@ -38,6 +38,10 @@
 | [AlgoHub](https://github.com/GAMZA-BAT/algohub-server) | 알고리즘 스터디 그룹을 위한 플랫폼의 백엔드 |
 | [Algorithm-SH](https://github.com/sh0723/Algorithm-SH) | 알고리즘 문제 풀이와 해법을 꾸준히 기록하는 저장소 |
 
+## Problem Solving
+
+[![solved.ac 프로필 카드](https://mazassumnida.wtf/api/v2/generate_badge?handle=pshpark)](https://solved.ac/u/pshpark)
+
 ## GitHub Activity
 
 <div align="center">
